@@ -1,0 +1,14 @@
+python-telegram-bot
+google-generativeai
+python-dotenv
+pillow
+pymupdf
+pypdf
+jinja2
+playwright
+pymongo
+psutil
+pyrogram
+pycryptodome
+tgcrypto
+pymupdf

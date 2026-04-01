@@ -1,0 +1,43 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local development settings
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+bot/__pycache__/**
+services/__pycache__/**
+utils/__pycache__/**
+bot/venv/**
+Debug/response.json
+
+# Pyrogram session files (contains authentication data)
+*.session
+*.session-journal
+tss_bot_pyrogram_user.session
+tss_bot_pyrogram_user.session-journal
